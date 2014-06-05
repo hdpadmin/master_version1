@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the hdp feature.
+ */
+
+include_once 'hdp.features.inc';
